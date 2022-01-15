@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjustalt
-- 👀 I’m interested in getting to know teh GitHub platform
+- 👀 I’m interested in getting to know the GitHub platform
 - 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: Through teh GitHub platform
+- 📫 How to reach me: Through the GitHub platform
 
 <!---
 sjustalt/sjustalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
