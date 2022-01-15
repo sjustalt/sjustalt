@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: Through the GitHub platform
 
-![The San Juan Mountains are beautiful!](/assets/IMG_0023 squarred.jpg "San Juan Mountains")
+![This is me](/sjustalt/assets/IMG_0023 squarred.jpg )
 
 <!---
 sjustalt/sjustalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
